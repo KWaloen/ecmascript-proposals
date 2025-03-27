@@ -162,7 +162,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const width = graph.offsetWidth
-  const height = Math.max(graph.offsetHeight, 250)
+  const height = Math.max(graph.offsetHeight, 400)
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -197,7 +197,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const color = (d: NodeData) => {
     const isCurrent = d.id === slug
     if (isCurrent) {
-      return computedStyleMap["--secondary"]
+      return computedStyleMap["--dark"]
     } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
       return computedStyleMap["--tertiary"]
     } else {
