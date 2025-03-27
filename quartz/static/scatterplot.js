@@ -1,7 +1,7 @@
 
   setTimeout(() => {
     createChart();
-  }, 500);
+  }, 1000);
   
 function createChart() {
 
