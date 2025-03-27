@@ -1,4 +1,4 @@
-[[Stage 4]]<br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: Change Array by Copy<br>Authors: Ashley Claymore, Robin Ricard<br>Champions: Ashley Claymore, Robin Ricard<br>Last Presented: arch 2022<br>Stage Upgrades:<br>Stage 1: 2021-04-20  
+[[Stage 4]] <br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: Change Array by Copy<br>Authors: Ashley Claymore, Robin Ricard<br>Champions: Ashley Claymore, Robin Ricard<br>Last Presented: arch 2022<br>Stage Upgrades:<br>Stage 1: 2021-04-20  
 Stage 2: 2021-09-03  
 Stage 2.7: NA  
 Stage 3: 2022-03-31  
@@ -13,11 +13,11 @@ Provides additional methods on `Array.prototype` and `TypedArray.prototype` to e
 
 ## Status
 
-This proposal is currently at [Stage 4].
+This proposal is currently at Stage 4.
 
 - [Candidate spec text][spec]
 
-[Stage 4]: https://github.com/tc39/proposals/commit/ad4df8435f27f39eda26db3b940ae151980c8015#diff-af1d66eb7dbbf6f66e871d26bcad07076a557256a957f558ca21e60924e2b0b7
+Stage 4: https://github.com/tc39/proposals/commit/ad4df8435f27f39eda26db3b940ae151980c8015#diff-af1d66eb7dbbf6f66e871d26bcad07076a557256a957f558ca21e60924e2b0b7
 [spec]: https://github.com/tc39/ecma262/pull/2997/files
 
 ## Champions
