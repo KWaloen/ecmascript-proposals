@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[Syntactic Change]] [[Semantic Change]]<br>Human Validated: KW<br>Title: RegExp Unicode Property Escapes<br>Authors: Mathias Bynens<br>Champions: Brian Terlson, Daniel Ehrenberg, Mathias Bynens<br>Last Presented: January 2018<br>Stage Upgrades:<br>Stage 1: 2016-07-27  
-=======
-[[Stage 4]]<br>Classification: [[Syntactic Change]]<br>Human Validated: KW<br>Title: RegExp Unicode Property Escapes<br>Authors: Mathias Bynens<br>Champions: Brian Terlson, Daniel Ehrenberg, Mathias Bynens<br>Last Presented: January 2018<br>Stage Upgrades:<br>Stage 1: 2016-07-27  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2016-09-28  
 Stage 2.7: NA
 Stage 3: 2017-03-22  

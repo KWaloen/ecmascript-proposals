@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[API Change]] <br>Human Validated: KW<br>Title: Resizable and growable ArrayBuffers<br>Authors: Shu-yu Guo<br>Champions: Shu-yu Guo<br>Last Presented: September 2023<br>Stage Upgrades:<br>Stage 1: 2020-07-19  
-=======
-[[Stage 4]]<br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: Resizable and growable ArrayBuffers<br>Authors: Shu-yu Guo<br>Champions: Shu-yu Guo<br>Last Presented: September 2023<br>Stage Upgrades:<br>Stage 1: 2020-07-19  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2020-09-29  
 Stage 2.7: NA  
 Stage 3: 2021-05-26  

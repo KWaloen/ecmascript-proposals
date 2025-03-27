@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-[[Stage 4]]<br>Classification: [[API Change]] <br>Human Validated: KW<br>Title: String padding<br>Authors: Jordan Harband<br>Champions: Jordan Harband, Rick Waldron<br>Last Presented: May 2016<br>Stage Upgrades:<br>Stage 1: NA  
-=======
 [[Stage 4]]<br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: String padding<br>Authors: Jordan Harband<br>Champions: Jordan Harband, Rick Waldron<br>Last Presented: May 2016<br>Stage Upgrades:<br>Stage 1: NA  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: NA  
 Stage 2.7: NA  
 Stage 3: 2015-11-17  

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[API Change]] <br>Human Validated: KW<br>Title: String.prototype.replaceAll<br>Authors: Peter Marshall, Jakob Gruber, Mathias Bynens<br>Champions: Mathias Bynens<br>Last Presented: June 2020<br>Stage Upgrades:<br>Stage 1: 2017-11-29  
-=======
-[[Stage 4]]<br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: String.prototype.replaceAll<br>Authors: Peter Marshall, Jakob Gruber, Mathias Bynens<br>Champions: Mathias Bynens<br>Last Presented: June 2020<br>Stage Upgrades:<br>Stage 1: 2017-11-29  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2019-03-27  
 Stage 2.7: NA  
 Stage 3: 2019-10-03  

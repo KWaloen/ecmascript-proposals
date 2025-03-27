@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[API Change]] <br>Human Validated: KW<br>Title: Promise.try<br>Authors: Jordan Harband<br>Champions: Jordan Harband<br>Last Presented: October 2024<br>Stage Upgrades:<br>Stage 1: 2016-11-29  
-=======
-[[Stage 4]]<br>Classification: [[API Change]]<br>Human Validated: KW<br>Title: Promise.try<br>Authors: Jordan Harband<br>Champions: Jordan Harband<br>Last Presented: October 2024<br>Stage Upgrades:<br>Stage 1: 2016-11-29  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2024-03-26  
 Stage 2.7: 2024-04-08  
 Stage 3: 2024-07-03  

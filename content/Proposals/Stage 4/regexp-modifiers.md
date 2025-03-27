@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-
 [[Stage 4]]<br>Classification: [[Syntactic Change]] [[Semantic Change]]<br>Human Validated: KW<br>Title: RegExp Modifiers<br>Authors: Ron Buckton<br>Champions: Ron Buckton<br>Last Presented: October 2024<br>Stage Upgrades:<br>Stage 1: 2021-10-28  
-=======
-[[Stage 4]]<br>Classification: [[Syntactic Change]]<br>Human Validated: KW<br>Title: RegExp Modifiers<br>Authors: Ron Buckton<br>Champions: Ron Buckton<br>Last Presented: October 2024<br>Stage Upgrades:<br>Stage 1: 2021-10-28  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2021-12-16  
 Stage 2.7: NA  
 Stage 3: 2022-10-18  

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[Syntactic Change]] [[Semantic Change]]<br>Human Validated: KW<br>Title: Optional catch binding<br>Authors: Michael Ficarra<br>Champions: Michael Ficarra<br>Last Presented: May 2018<br>Stage Upgrades:<br>Stage 1: NA  
-=======
-[[Stage 4]]<br>Classification: [[Syntactic Change]]<br>Human Validated: KW<br>Title: Optional catch binding<br>Authors: Michael Ficarra<br>Champions: Michael Ficarra<br>Last Presented: May 2018<br>Stage Upgrades:<br>Stage 1: NA  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: NA  
 Stage 2.7: NA  
 Stage 3: 2017-07-28  

@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[Syntactic Change]] [[Semantic Change]]<br>Human Validated: KW<br>Title: Nullish coalescing Operator<br>Authors: Gabriel Isenberg<br>Champions: Gabriel Isenberg, Justin Ridgewell, Daniel Rosenwasser<br>Last Presented: December 2019<br>Stage Upgrades:<br>Stage 1: 2017-09-28  
-=======
-[[Stage 4]]<br>Classification: [[Syntactic Change]]<br>Human Validated: KW<br>Title: Nullish coalescing Operator<br>Authors: Gabriel Isenberg<br>Champions: Gabriel Isenberg, Justin Ridgewell, Daniel Rosenwasser<br>Last Presented: December 2019<br>Stage Upgrades:<br>Stage 1: 2017-09-28  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: 2019-06-05  
 Stage 2.7: NA  
 Stage 3: 2019-07-23  

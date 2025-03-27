@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 [[Stage 4]]<br>Classification: [[Syntactic Change]] [[Semantic Change]]<br>Human Validated: KW<br>Title: Lifting template literal restriction<br>Authors: Tim Disney<br>Champions: Tim Disney<br>Last Presented: March 2017<br>Stage Upgrades:<br>Stage 1: 2016-05-03  
-=======
-[[Stage 4]]<br>Classification: [[Syntactic Change]]<br>Human Validated: KW<br>Title: Lifting template literal restriction<br>Authors: Tim Disney<br>Champions: Tim Disney<br>Last Presented: March 2017<br>Stage Upgrades:<br>Stage 1: 2016-05-03  
->>>>>>> 8c163983a136803a4fe1d6cc16d21efc67c77e85
 Stage 2: NA  
 Stage 2.7: NA  
 Stage 3: NA  
