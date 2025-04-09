@@ -1,8 +1,4 @@
-# Test Scatterplot
-
-<div id="scatterplot"></div>
-<script src="https://d3js.org/d3.v7.min.js"></script>
-<script></script>
+#API_Change 
 
 # Inactive
 ```dataview
