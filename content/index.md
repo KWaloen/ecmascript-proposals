@@ -1,5 +1,5 @@
 ---
-title: TC39 ECMAScript Evolution Project
+title: JavaScript Evolution Project
 ---
 
 20 credit z-inf project
