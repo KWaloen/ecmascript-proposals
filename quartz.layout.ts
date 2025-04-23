@@ -22,7 +22,6 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
-    Component.TagList(),
     Component.DesktopOnly(Component.Graph()),
   ],
   left: [
