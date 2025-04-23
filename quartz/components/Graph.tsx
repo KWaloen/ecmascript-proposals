@@ -30,7 +30,7 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 2,
+    depth: 1,
     scale: 0.5,
     repelForce: 2,
     centerForce: 0.2,
