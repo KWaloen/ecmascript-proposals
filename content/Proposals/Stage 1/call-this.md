@@ -2,7 +2,7 @@
 Stage 2: NA  
 Stage 2.7: NA  
 Stage 3: NA  
-Stage 4: NA<br>Last Commit: 2023-05-05<br>Keywords: #operator #binding #function #syntax #receiver #arguments #associative #typeerror #dynamic #interoperability<br>GitHub Link: https://github.com/tc39/proposal-call-this <br>GitHub Note Link: https://github.com/tc39/notes/blob/HEAD/meetings/2021-10/oct-27.md#bind-this-operator-for-stage-1
+Stage 4: NA<br>Last Commit: 2023-05-05<br>Keywords: #operator #binding <br>GitHub Link: https://github.com/tc39/proposal-call-this <br>GitHub Note Link: https://github.com/tc39/notes/blob/HEAD/meetings/2021-10/oct-27.md#bind-this-operator-for-stage-1
 # Proposal Description:
 # Call-this operator for JavaScript
 ECMAScript Stage-1 Proposal. J. S. Choi, 2021.
@@ -12,13 +12,9 @@ ECMAScript Stage-1 Proposal. J. S. Choi, 2021.
 
 [formal specification]: https://tc39.es/proposal-call-this/
 
-This proposal is a **resurrection** of the old [Stage-0 bind-operator
-proposal][old bind]. It is also an alternative, **competing** proposal to the
-[Stage-1 extensions proposal][extensions]. For more information, see [§ Related
+This proposal is a **resurrection** of the old [[bind-syntax]] proposal. It is also an alternative, competing proposal to the
+[[extensions]] proposal. For more information, see [§ Related
 proposals](#related-proposals).
-
-[old bind]: https://github.com/tc39/proposal-bind-operator
-[extensions]: https://github.com/tc39/proposal-extensions
 
 ## Syntax
 
@@ -417,8 +413,7 @@ switched][] from 𝘠 to 𝘟 (e.g., for module splitting).
 
 [Firebase JS SDK have switched]: https://firebase.blog/posts/2021/08/deep-dive-into-the-new-firebase-js-sdk-design
 
-But the call-this operator, together with the [pipe operator `|>`][pipe
-operator], would make interoperability between 𝘟 and 𝘠 more fluid – and it
+But the call-this operator, together with the [[pipeline]] operator, would make interoperability between 𝘟 and 𝘠 more fluid – and it
 would make the choice between 𝘟 and 𝘠 less viral – bridging the schism:
 
 ```js
